@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=kyle-xu001)
+![](https://github-readme-stats.vercel.app/api?username=kyle-xu001&theme=dark)
