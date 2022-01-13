@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **artificial intelligence techniques for robotics**.
 
-May you find your worth in the waking world.
+
 <!--
 **Kyle-Xu001/Kyle-xu001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
