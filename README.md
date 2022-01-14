@@ -2,7 +2,7 @@
 
 &nbsp;
 
-<img width=425 align="right" src="https://github-readme-stats.vercel.app/api?username=Kyle-Xu001&theme=react&count_private=true&show_icons=true" />
+<img width=400 align="right" src="https://github-readme-stats.vercel.app/api?username=Kyle-Xu001&theme=react&count_private=true&show_icons=true" />
 
 🔭 I’m currently working as a **computer vision R&D intern** at *Lely*.
 
