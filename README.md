@@ -10,7 +10,7 @@
 
 </br></br></br></br>
 
-<img height=125 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-Xu001&layout=compact&theme=react" />
+<img height=125 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-xu001&layout=compact&theme=react" />
 
 </br></br></br></br></br></br>
 
