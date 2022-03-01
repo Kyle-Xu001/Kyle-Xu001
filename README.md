@@ -14,6 +14,9 @@
 
 </br></br></br></br></br></br>
 
+| Upper-Limb Passive Adaptive Assisted Exoskeleton | Path Planner for Quadrotor based on Kinodynamics RRT* and k-PRM Methods |
+|---|---|
+<img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/exoskeleton.gif" width="250" height="210" /> | <img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/12.gif" width="250" height="210" /> |
 
 *************
 <h3> 🤝🏻 Connect with Me </h3>
