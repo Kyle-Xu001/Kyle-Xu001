@@ -11,7 +11,7 @@
 </br></br></br></br>
 
 
-- <h3>Featured Projects:</h3>
+<h3> 🤖 Featured Projects:</h3>
 
   |  Upper-Limb Passive Exoskeleton  | [Quadrotor k-PRM Path Planner](https://github.com/Kyle-Xu001/Planning_Project) |
   |  :------------:  |  :------------:  |
@@ -19,7 +19,6 @@
 
 
 
-*************
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/chenghao-xu-10/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@chenghaoxu-blue?style=flat&logo=linkedin"></a>
