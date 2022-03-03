@@ -10,13 +10,14 @@
 
 </br></br></br></br>
 
-<img height=125 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyle-xu001&layout=compact&theme=react" />
 
-</br></br></br></br></br></br>
+- <h3>Featured Projects:</h3>
 
-| Upper-Limb Passive Adaptive Assisted Exoskeleton | Path Planner for Quadrotor based on Kinodynamics RRT* and k-PRM Methods |
-|---|---|
-<img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/exoskeleton.gif" width="250" height="210" /> | <img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/12.gif" width="250" height="210" /> |
+  |  Upper-Limb Passive Exoskeleton  | [Quadrotor k-PRM Path Planner](https://github.com/Kyle-Xu001/Planning_Project) |
+  |  :------------:  |  :------------:  |
+  |<img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/exoskeleton.gif" width="280" height="210" /> | <img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/12.gif" width="280" height="210" /> |
+
+
 
 *************
 <h3> 🤝🏻 Connect with Me </h3>
