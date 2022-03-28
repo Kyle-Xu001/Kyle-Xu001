@@ -1,16 +1,17 @@
-### ***"If our lives are already written, it would take a courageous man to change the script."***
-
+### **" If our lives are already written, it would take a courageous man to change the script. "**
 &nbsp;
-
+<!--
 <img width=400 align="right" src="https://github-readme-stats.vercel.app/api?username=Kyle-Xu001&theme=react&count_private=true&show_icons=true" />
+-->
+✨ I obtained my Bachelor’s degree in Mechanical Engineering with Excellent Graduate Honor from [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), China. Currently, I am a Master student in Robotics at [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/), the Netherlands. 
 
-🔭 I’m currently working as a **computer vision R&D intern** at *Lely*.
+🔭 I’m currently working as a **computer vision intern** at *[Lely Technologies](https://www.lely.com/nl/)*. Meanwhile, I am also working on the **autonomous navigation on Spot robot** at *[Yes!Delft Impact Lab](https://www.yesdelftimpactlab.com/)*.
 
-🌱 I’m currently learning **artificial intelligence techniques for robotics**.
+🌱 I’m interested in robot planning and perception, especially the intersection area with machine learning. I support **slow science**.
 
-</br></br></br></br>
+🤔 Previously, I worked on passive assisted exoskeleton and online motion planning for industrial manipulators. I have much experience in **mechanical design, machining, and rapid prototyping**.
 
-
+</br>
 <h3> 🤖 Featured Projects</h3>
 
   |  Upper-Limb Passive Exoskeleton  | [Quadrotor k-PRM Path Planner](https://github.com/Kyle-Xu001/Planning_Project) |  Multi-Camera Video Stitching  |
