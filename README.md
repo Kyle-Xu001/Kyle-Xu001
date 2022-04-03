@@ -9,7 +9,7 @@
 
 🌱 I’m interested in robot planning and perception, especially the intersection area with machine learning. I support **slow science**.
 
-🤔 Previously, I worked on passive assisted exoskeleton and online motion planning for industrial manipulators. I have much experience in **mechanical design, machining, and rapid prototyping**.
+🤔 Previously, I worked on passive assisted exoskeleton and online motion planning for industrial manipulators. I am skilled in **mechanical design, machining, and rapid prototyping**.
 
 </br>
 <h3> 🤖 Featured Projects</h3>
