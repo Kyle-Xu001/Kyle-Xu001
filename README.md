@@ -4,7 +4,7 @@
 
 :spades: I obtained my Bachelor’s degree in Mechanical Engineering with Excellent Graduate Honor from [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), China. Currently, I am a Master's student in Robotics at [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/), the Netherlands. 
 
-:hearts: I’m currently working as a student research assistant (HiWi) at the [Perceiving Systems Department](https://ps.is.mpg.de/) of Max Planck Institute for Intelligent Systems. I used to work as a **computer vision intern** at *[Lely Technologies](https://www.lely.com/nl/)*. In addition, I also worked on the **autonomous navigation on Spot robot** at *[Yes!Delft Impact Lab](https://www.yesdelftimpactlab.com/)*.
+:hearts: I’m currently working as a **student research assistant (HiWi & Master Thesis)** at the *[Perceiving Systems Department](https://ps.is.mpg.de/)* of **Max Planck Institute for Intelligent Systems**. I used to work as a **computer vision intern** at *[Lely Technologies](https://www.lely.com/nl/)*. In addition, I also worked on the **autonomous navigation on Spot robot** at *[Yes!Delft Impact Lab](https://www.yesdelftimpactlab.com/)*.
 
 :clubs: I’m interested in robot exploration and vision-based navigation, especially the intersection area with state-of-the-art machine learning methods. I support **slow science**.
 
