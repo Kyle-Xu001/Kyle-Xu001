@@ -13,17 +13,15 @@
 </br>
 
 <h3> >>> Featured Projects </h3>
-<p align="center">
 
   |  Upper-Limb Passive Exoskeleton  | [Quadrotor k-PRM Path Planner](https://github.com/Kyle-Xu001/Planning_Project) |  [Multi-Camera Video Stitching](https://github.com/Kyle-Xu001/Multi-Depth-Multi-Camera-Stitching)  |
   |  :------------:  |  :------------:  |  :------------:  |
-  |<img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/exoskeleton.gif" width="260" height="210" /> | <img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/12.gif" width="260" height="210" /> | <img src="stitch.gif" width="260" height="210" /> |
+  |<img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/exoskeleton.gif" width="240" height="200" /> | <img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/12.gif" width="240" height="200" /> | <img src="stitch.gif" width="240" height="200" /> |
   |  [**Online Trajectory Planning**](https://github.com/Kyle-Xu001/Online-Trajectory-Planning-Manipulators)  | **Machine Learning for Car Racing** |  **Autonomous Driving Simulation**  |
-  |<img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/ROKAE1.gif" width="260" height="210" /> | <img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/ML_vehicles.gif" width="260" height="210" /> | <img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/ROS.gif" width="260" height="210" /> |
+  |<img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/ROKAE1.gif" width="240" height="200" /> | <img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/ML_vehicles.gif" width="240" height="200" /> | <img src="https://github.com/Kyle-Xu001/kyle-xu001.github.io/blob/master/assets/img/ROS.gif" width="240" height="200" /> |
   | **TIAGo Robot for Retail Store** | **Spot Robot for Site Inspection**||
-  |<img src="tiago.gif" width="260" height="210" />|||
+  |<img src="tiago.gif" width="240" height="200" />|||
   
-</p>
 </br>
 
 <p align="center">
